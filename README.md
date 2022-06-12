@@ -66,12 +66,14 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ~~~
 
 ## Output:
-![Github Logo](5.1.png)
-![Github Logo](5.1.png)
-![Github Logo](5.1.png)
-![Github Logo](5.1.png)
-![Github Logo](5.1.png)
-![Github Logo](5.1.png)
+![Github Logo](1.png)
+![Github Logo](2.png)
+![Github Logo](3.png)
+![Github Logo](4.png)
+![Github Logo](5.png)
+![Github Logo](6.png)
+![Github Logo](7.png)
+![Github Logo](8.png)
 
 
 ## Result:
