@@ -8,10 +8,19 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.import pandas module and import the required data set.
+Find the null values and count them.
+Count number of left values.
+From sklearn import LabelEncoder to convert string values to numerical values.
+From sklearn.model_selection import train_test_split.
+Assign the train dataset and test dataset.
+From sklearn.tree import DecisionTreeClassifier.
+Use criteria as entropy.
+From sklearn import metrics.
+Find the accuracy of our model and predict the require values. 
+ 
+ 
+ 
 
 ## Program:
 ~~~
@@ -57,7 +66,12 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ~~~
 
 ## Output:
-![decision tree classifier model](sam.png)
+![Github Logo](5.1.png)
+![Github Logo](5.1.png)
+![Github Logo](5.1.png)
+![Github Logo](5.1.png)
+![Github Logo](5.1.png)
+![Github Logo](5.1.png)
 
 
 ## Result:
